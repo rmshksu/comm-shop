@@ -19,6 +19,8 @@ Keep it simple, stupid.
 {% endcapture %}
 {% include alert.html text=text color=secondary %}
 
+<br>
+
 ---
 
 <br>
@@ -32,6 +34,8 @@ Keep it simple, stupid.
     <p>It's about failing until you understand.</p>
   </div>
 </div>
+
+<br>
 
 ---
 
@@ -62,6 +66,8 @@ Keep it simple, stupid.
   </tbody>
 </table>
 
+<br>
+
 ---
 
 <br>
@@ -88,3 +94,5 @@ Keep it simple, stupid.
     <div class="mt-2"><span class="badge bg-success">+</span></div>
   </div>
 </div>
+
+<br>
