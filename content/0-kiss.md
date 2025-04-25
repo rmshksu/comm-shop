@@ -8,7 +8,7 @@ nav: K-I-S-S
 
 ---
 
-\
+<br>
 
 {% capture text %}
 Nobody wants to listen to a lecture when they were expecting a sales pitch.
@@ -21,7 +21,7 @@ Keep it simple, stupid.
 
 ---
 
-\
+<br>
 
 ## Start at the End: **What do you want?**
 
@@ -35,7 +35,7 @@ Keep it simple, stupid.
 
 ---
 
-\
+<br>
 
 ## Trim the Fat: **What are you really saying?**
 
@@ -64,7 +64,7 @@ Keep it simple, stupid.
 
 ---
 
-\
+<br>
 
 ## Get to the Point: **What's the Underlying Theme?**
 
