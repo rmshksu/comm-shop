@@ -8,6 +8,8 @@ nav: K-I-S-S
 
 ---
 
+\
+
 {% capture text %}
 Nobody wants to listen to a lecture when they were expecting a sales pitch.
 
@@ -18,6 +20,8 @@ Keep it simple, stupid.
 {% include alert.html text=text color=secondary %}
 
 ---
+
+\
 
 ## Start at the End: **What do you want?**
 
@@ -30,6 +34,8 @@ Keep it simple, stupid.
 </div>
 
 ---
+
+\
 
 ## Trim the Fat: **What are you really saying?**
 
@@ -57,6 +63,8 @@ Keep it simple, stupid.
 </table>
 
 ---
+
+\
 
 ## Get to the Point: **What's the Underlying Theme?**
 
