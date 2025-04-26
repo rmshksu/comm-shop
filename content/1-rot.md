@@ -41,7 +41,7 @@ nav: RoT
 
 <div class="card mb-4">
   <div class="card-body text-center">
-    <p><mark class="highlight-prompt">Lehman Brothers</mark> needed better <mark class="highlight-focus">Calculus</mark> teachers.</p>
+    <p><mark class="highlight-prompt">Lehman Brothers</mark> prove that we need good <mark class="highlight-focus">Calculus</mark> teachers.</p>
   </div>
 </div>
 
