@@ -14,25 +14,75 @@ nav: RoT
 ## Background  
 **What are you presenting — and what does everyone need to know before you dive in?**
 
-> *<mark class="highlight-prompt">Lehman Brothers</mark>* needed better <mark class="highlight-focus">Calculus</mark> teachers.
+<div class="card mb-4">
+  <div class="card-body">
+    <p><mark class="highlight-prompt">Lehman Brothers</mark> needed better <mark class="highlight-focus">Calculus</mark> teachers.</p>
+  </div>
+</div>
 
----
+<div class="row mb-4">
+  <div class="col-md-6">
+    <div class="card h-100">
+      <div class="card-header fw-bold">Lehman Brothers Inc.</div>
+      <div class="card-body">
+        <ul>
+          <li>Investment banking firm</li>
+          <li>Declared bankruptcy on <mark class="highlight-prompt">September 15, 2008</mark></li>
+        </ul>
+        <p class="aside">Consider briefly explaining why this date is historically significant.</p>
+      </div>
+    </div>
+  </div>
 
-### Lehman Brothers Inc.
-- Investment banking firm  
-- Declared bankruptcy on <mark class="highlight-prompt">**September 15, 2008**</mark>  
-  <span class="aside">Consider briefly explaining why this date is historically significant.</span>
+  <div class="col-md-6">
+    <div class="card h-100">
+      <div class="card-header fw-bold">2008 Collapse</div>
+      <div class="card-body">
+        <ul>
+          <li>Global financial crisis</li>
+          <li>Massive stock market crash</li>
+          <li>Result of <mark class="highlight-summary">predatory lending</mark> and <mark class="highlight-summary">subprime mortgages</mark></li>
+        </ul>
+        <p class="aside">Sometimes context is needed, but a rapid summary is more than enough for the presentation.</p>
+      </div>
+    </div>
+  </div>
+</div>
 
-### 2008 Collapse
-- Global financial crisis  
-- Massive stock market crash  
-- Result of <mark class="highlight-summary">**predatory lending**</mark> and <mark class="highlight-summary">**subprime mortgages**</mark>  
-  <span class="aside">Sometimes context is needed, but a rapid summary is more than enough for the presentation.</span>
+<div class="card mb-4">
+  <div class="card-header fw-bold">Calculus</div>
+  <div class="card-body">
+    <ul>
+      <li><strong>Risk Management</strong>: Controlling the chance of a bad financial outcome by using data and mathematics</li>
+      <li><strong>Derivatives</strong>: The measure of how sensitive a function is to change</li>
+    </ul>
+    <p class="aside">When we have to give context to a very broad subject, try to narrow it down as much as possible.</p>
+  </div>
+</div>
 
-### <mark class="highlight-focus">Calculus</mark>
-- **Risk Management**: Controlling the chance of a bad financial outcome by using data and mathematics  
-- **Derivatives**: The measure of how sensitive a function is to change  
-  <span class="aside">When we have to give context to a very broad subject, try to narrow it down as much as possible.</span>
+<style>
+.highlight-prompt {
+  background-color: #fff3cd;
+  font-weight: bold;
+}
+
+.highlight-summary {
+  background-color: #d1ecf1;
+  font-weight: bold;
+}
+
+.highlight-focus {
+  background-color: #f8d7da;
+  font-weight: bold;
+}
+
+.aside {
+  font-style: italic;
+  color: #6c757d;
+  font-size: 0.9rem;
+  margin-top: 0.5rem;
+}
+</style>
 
 
 ---
