@@ -15,4 +15,4 @@ layout: page
 
 ------
 
-{% include template/credits.html %}
+[comment]: <> ({% include template/credits.html %})
