@@ -9,6 +9,13 @@ nav: RoT
 
 ---
 
+<div class="card mb-4">
+  <div class="card-body text-center">
+    <p>Humans are simple creatures. We like when things are presented in groups of three. Blood, sweat, and tears. Life, liberty, and the pursuit of happiness. Lions, tigers, and bears.</p>
+  </div>
+</div>
+
+
 <br>
 
 ## Background  
