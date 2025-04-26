@@ -29,7 +29,7 @@ Keep it simple, stupid.
 
 <div class="card mb-4">
   <div class="card-body">
-    <p><strong>+</strong> I want everyone in the crowd to recognize:</p>
+    <p><td><span class="badge bg-success">+</span></td> I want everyone in the crowd to recognize:</p>
     <p>Learning isn't about getting the right answer.</p>
     <p>It's about failing until you understand.</p>
   </div>
