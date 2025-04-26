@@ -48,12 +48,6 @@ Keep it simple, stupid.
 ## Trim the Fat: **What are you really saying?**
 
 <table class="table table-bordered w-75 mx-auto">
-  <thead class="thead-light">
-    <tr>
-      <th scope="col">Symbol</th>
-      <th scope="col">Message</th>
-    </tr>
-  </thead>
   <tbody>
     <tr>
       <td><span class="badge bg-secondary">N</span></td>
@@ -61,7 +55,7 @@ Keep it simple, stupid.
     </tr>
     <tr>
       <td><span class="badge bg-success">+</span></td>
-      <td><strong>Learning</strong> isn't about getting the right answer</td>
+      <td><strong>Learning</strong> isn't about getting the right answer</strong></td>
     </tr>
     <tr>
       <td><span class="badge bg-danger">-</span></td>
