@@ -29,7 +29,7 @@ nav: RoT
           <li>Investment banking firm</li>
           <li>Declared bankruptcy on <mark class="highlight-prompt">September 15, 2008</mark></li>
         </ul>
-        <p class="aside">Consider briefly explaining why this date is historically significant.</p>
+        <p class="aside">Context can need context, just don't fall down a rabbit hole.</p>
       </div>
     </div>
   </div>
