@@ -28,12 +28,16 @@ Keep it simple, stupid.
 ## Start at the End: **What do you want?**
 
 <div class="card mb-4">
-  <div class="card-body">
-    <p><td><span class="badge bg-success">+</span></td> I want everyone in the crowd to recognize:</p>
-    <p>Learning isn't about getting the right answer.</p>
-    <p>It's about failing until you understand.</p>
+  <div class="card-body d-flex justify-content-between align-items-center">
+    <div>
+      <p class="mb-1">I want everyone in the crowd to recognize:</p>
+      <p class="mb-1">Learning isn't about getting the right answer.</p>
+      <p class="mb-0">It's about failing until you understand.</p>
+    </div>
+    <span class="badge bg-success fs-4">+</span>
   </div>
 </div>
+
 
 <br>
 
