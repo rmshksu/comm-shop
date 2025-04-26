@@ -3,7 +3,7 @@ title: Home
 layout: page
 ---
 
-# Presenting Ideas as a Data Scientist
+<h1 class="text-center">Presenting Ideas as a Data Scientist</h1>
 
 {% include figure.html img="statdept.jpg" alt="intro image here" caption="Brought to you by the Kansas State Department of Statistics" width="50%" %}
 
