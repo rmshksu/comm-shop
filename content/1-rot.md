@@ -14,20 +14,26 @@ nav: RoT
 ## Background  
 **What are you presenting — and what does everyone need to know before you dive in?**
 
-> *Lehman Brothers needed better calculus teachers.*
+> *<mark class="highlight-prompt">Lehman Brothers</mark>* needed better <mark class="highlight-focus">Calculus</mark> teachers.
+
+---
 
 ### Lehman Brothers Inc.
 - Investment banking firm  
-- Declared bankruptcy on **September 15, 2008**
+- Declared bankruptcy on <mark class="highlight-prompt">**September 15, 2008**</mark>  
+  <span class="aside">Consider briefly explaining why this date is historically significant.</span>
 
 ### 2008 Collapse
 - Global financial crisis  
 - Massive stock market crash  
-- Result of **predatory lending** and **subprime mortgages**
+- Result of <mark class="highlight-summary">**predatory lending**</mark> and <mark class="highlight-summary">**subprime mortgages**</mark>  
+  <span class="aside">Sometimes context is needed, but a rapid summary is more than enough for the presentation.</span>
 
-### Calculus
+### <mark class="highlight-focus">Calculus</mark>
 - **Risk Management**: Controlling the chance of a bad financial outcome by using data and mathematics  
 - **Derivatives**: The measure of how sensitive a function is to change  
+  <span class="aside">When we have to give context to a very broad subject, try to narrow it down as much as possible.</span>
+
 
 ---
 
