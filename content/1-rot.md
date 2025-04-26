@@ -15,7 +15,7 @@ nav: RoT
 **What are you presenting — and what does everyone need to know before you dive in?**
 
 <div class="card mb-4">
-  <div class="card-body">
+  <div class="card-body text-center">
     <p><mark class="highlight-prompt">Lehman Brothers</mark> needed better <mark class="highlight-focus">Calculus</mark> teachers.</p>
   </div>
 </div>
@@ -23,7 +23,7 @@ nav: RoT
 <div class="row mb-4">
   <div class="col-md-6">
     <div class="card h-100">
-      <div class="card-header fw-bold">Lehman Brothers Inc.</div>
+      <div class="card-header fw-bold highlight-header-prompt">Lehman Brothers Inc.</div>
       <div class="card-body">
         <ul>
           <li>Investment banking firm</li>
@@ -36,7 +36,7 @@ nav: RoT
 
   <div class="col-md-6">
     <div class="card h-100">
-      <div class="card-header fw-bold">2008 Collapse</div>
+      <div class="card-header fw-bold highlight-header-prompt">2008 Collapse</div>
       <div class="card-body">
         <ul>
           <li>Global financial crisis</li>
@@ -50,30 +50,44 @@ nav: RoT
 </div>
 
 <div class="card mb-4">
-  <div class="card-header fw-bold">Calculus</div>
+  <div class="card-header fw-bold highlight-header-focus">Calculus</div>
   <div class="card-body">
     <ul>
-      <li><strong>Risk Management</strong>: Controlling the chance of a bad financial outcome by using data and mathematics</li>
       <li><strong>Derivatives</strong>: The measure of how sensitive a function is to change</li>
     </ul>
     <p class="aside">When we have to give context to a very broad subject, try to narrow it down as much as possible.</p>
   </div>
 </div>
 
+<div class="card mb-4">
+  <div class="card-header fw-bold highlight-header-prompt">Additional Context</div>
+  <div class="card-body">
+    <p><strong>Risk Management</strong>: Controlling the chance of a bad financial outcome by using data and mathematics</p>
+  </div>
+</div>
+
 <style>
 .highlight-prompt {
-  background-color: #fff3cd;
+  background-color: #fff3cd; /* Soft yellow */
   font-weight: bold;
 }
 
 .highlight-summary {
-  background-color: #d1ecf1;
+  background-color: #d1ecf1; /* Light blue */
   font-weight: bold;
 }
 
 .highlight-focus {
-  background-color: #f8d7da;
+  background-color: #f8d7da; /* Soft red */
   font-weight: bold;
+}
+
+.highlight-header-prompt {
+  background-color: #fff3cd; /* Yellow header */
+}
+
+.highlight-header-focus {
+  background-color: #f8d7da; /* Red header */
 }
 
 .aside {
