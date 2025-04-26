@@ -3,7 +3,7 @@ title: Home
 layout: page
 ---
 
-# Science, Statistics, and Storytelling
+# Presenting Ideas as a Data Scientist
 
 {% include figure.html img="statdept.jpg" alt="intro image here" caption="Presented by the K-State Department of Statistics" width="50%" %}
 
