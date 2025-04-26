@@ -103,9 +103,18 @@ nav: Engage
 
 # Make Them Care
 
+<div class="card mb-4 border-warning">
+  <div class="card-body text-center">
+    <p class="fw-bold mb-2">What's in it for <strong>them</strong>?</p>
+    <p class="fw-bold mb-2">How can <strong>they</strong> contribute?</p>
+    <p class="mt-4">
+    </p>
+  </div>
+</div>
+
 <div class="text-center mb-4">
   <button type="button" class="btn btn-warning btn-lg" data-bs-toggle="modal" data-bs-target="#finalModal">
-    Final Message
+    Last but not least
   </button>
 </div>
 
@@ -120,12 +129,12 @@ nav: Engage
       
       <div class="modal-body d-flex flex-column justify-content-between">
         <div class="text-center" style="font-size: 2rem; margin-top: 20px;">
-          <em>If there's no point to your presentation, then there's no point to remember it.</em>
+          <em>If there's no point to your presentation, then what's the point in remembering you?</em>
         </div>
         
         <div class="text-center mt-4">
-          <img src="statdept.jpg" alt="Image 1" style="max-width: 40%; margin: 10px;">
-          <img src="statclub.jpg" alt="Image 2" style="max-width: 40%; margin: 10px;">
+          <img src="https://raw.githubusercontent.com/rmshksu/comm-shop/d1d5e459d27b8538aa7db4a81ea6761be3086910/images/statdept.jpg" alt="Image 1" style="max-width: 40%; margin: 10px;">
+          <img src="https://raw.githubusercontent.com/rmshksu/comm-shop/d1d5e459d27b8538aa7db4a81ea6761be3086910/images/statclub.jpg" alt="Image 2" style="max-width: 40%; margin: 10px;">
         </div>
         
         <div class="text-center mt-3" style="font-size: 0.9rem; color: #6c757d;">
