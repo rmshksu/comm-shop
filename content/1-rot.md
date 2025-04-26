@@ -215,7 +215,7 @@ $$f'(x) = -2+2x+3x^2$$
 
 <br>
 
->***A good calculus teacher gives us the analysts in [Margin Call](https://youtube.com/clip/UgkxBGxew3HC8vtTasp8oT7kHN5N7YA98YGS?si=hBewX5mIBgxw3A4k)
+>***A good calculus teacher gives us the analysts in** [Margin Call](https://youtube.com/clip/UgkxBGxew3HC8vtTasp8oT7kHN5N7YA98YGS?si=hBewX5mIBgxw3A4k)
 
 <br>
 
