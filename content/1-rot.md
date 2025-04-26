@@ -14,9 +14,24 @@ nav: RoT
 
 <div class="card mb-4">
   <div class="card-body text-center">
-    <p><strong><span style="font-size: 24px;">Humans are simple creatures. We like when things are presented in groups of three. Blood, sweat, and tears. Life, liberty, and the pursuit of happiness. Lions, tigers, and bears.</span></strong></p>
+    <p><strong><span style="font-size: 24px;">Humans are simple creatures. We like when things are presented in groups of three.   </span></strong></p>
   </div>
 </div>
+
+<table class="table table-bordered w-75 mx-auto">
+  <tbody>
+    <tr>
+      <td><strong>Blood, sweat, and tears.</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Life, liberty, and the pursuit of happiness.</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Lions, tigers, and bears.</strong></td>
+    </tr>
+  </tbody>
+</table>
+
 
 
 <br>
@@ -108,8 +123,11 @@ nav: RoT
 }
 </style>
 
+<br>
 
 ---
+
+<br>
 
 <div class="card mb-4">
   <div class="card-body text-center">
@@ -117,9 +135,13 @@ nav: RoT
   </div>
 </div>
 
-> **Lehman Brothers Inc. took an extremely risky market position**  
-> because they evaluated the chance of a bad outcome against their potential gain,  
-> instead of looking at how quickly and dramatically everything could fail.
+<div class="card mb-4">
+  <div class="card-body text-center">
+    <p><strong><span style="font-size: 24px;">Lehman Brothers Inc. took an extremely risky market position because they evaluated the chance of a bad outcome against their potential gain instead of looking at how quickly and dramatically everything could fail.</span></strong></p>
+  </div>
+</div>
+
+<br>
 
 ---
 
