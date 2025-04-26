@@ -55,7 +55,7 @@ Keep it simple, stupid.
     </tr>
     <tr>
       <td><span class="badge bg-success">+</span></td>
-      <td><strong>Learning</strong> isn't about getting the right answer</strong></td>
+      <td><strong>Learning</strong> isn't about getting the right answer</td>
     </tr>
     <tr>
       <td><span class="badge bg-danger">-</span></td>
