@@ -3,7 +3,28 @@ title: Be Engaging
 nav: Engage
 ---
 
-<div class="card mb-4">
+<!-- Fade-in animation CSS -->
+<style>
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translate3d(0, 40px, 0);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+.fade-in-up {
+  animation: fadeInUp 1s ease forwards;
+  opacity: 0;
+  animation-delay: 0.3s;
+  animation-fill-mode: forwards;
+}
+</style>
+
+<div class="card mb-4 fade-in-up">
   <div class="card-body text-center">
     <blockquote class="blockquote">
       <p class="fs-4 fw-bold">
@@ -17,7 +38,7 @@ nav: Engage
 # Engage with the Audience
 
 <div class="row">
-  <div class="col-md-4 mb-4">
+  <div class="col-md-4 mb-4 fade-in-up">
     <div class="card h-100 border-secondary">
       <div class="card-body text-center">
         <p class="fw-bold">It takes a village</p>
@@ -26,7 +47,7 @@ nav: Engage
     </div>
   </div>
   
-  <div class="col-md-4 mb-4">
+  <div class="col-md-4 mb-4 fade-in-up">
     <div class="card h-100 border-secondary">
       <div class="card-body text-center">
         <p class="fw-bold">Silence is just an effect</p>
@@ -35,7 +56,7 @@ nav: Engage
     </div>
   </div>
   
-  <div class="col-md-4 mb-4">
+  <div class="col-md-4 mb-4 fade-in-up">
     <div class="card h-100 border-secondary">
       <div class="card-body text-center">
         <p class="fw-bold">Live performances should be alive</p>
@@ -50,7 +71,7 @@ nav: Engage
 # Let the Audience Engage with the Content
 
 <div class="row">
-  <div class="col-md-4 mb-4">
+  <div class="col-md-4 mb-4 fade-in-up">
     <div class="card h-100 border-primary">
       <div class="card-body text-center">
         <p class="fw-bold">Ditch the jargon</p>
@@ -59,7 +80,7 @@ nav: Engage
     </div>
   </div>
   
-  <div class="col-md-4 mb-4">
+  <div class="col-md-4 mb-4 fade-in-up">
     <div class="card h-100 border-primary">
       <div class="card-body text-center">
         <p class="fw-bold">Let go of the rigor</p>
@@ -68,7 +89,7 @@ nav: Engage
     </div>
   </div>
   
-  <div class="col-md-4 mb-4">
+  <div class="col-md-4 mb-4 fade-in-up">
     <div class="card h-100 border-primary">
       <div class="card-body text-center">
         <p class="fw-bold">Turn the listeners into collaborators</p>
@@ -82,12 +103,36 @@ nav: Engage
 
 # Make Them Care
 
-<div class="card mb-4 border-warning">
-  <div class="card-body text-center">
-    <p class="fw-bold mb-2">What's in it for <strong>them</strong>?</p>
-    <p class="fw-bold mb-2">How can <strong>they</strong> contribute?</p>
-    <p class="mt-4">
-      If there's no point to your presentation, then there's no point to remember it.
-    </p>
+<div class="text-center mb-4">
+  <button type="button" class="btn btn-warning btn-lg" data-bs-toggle="modal" data-bs-target="#finalModal">
+    Final Message
+  </button>
+</div>
+
+<!-- Final Modal -->
+<div class="modal fade" id="finalModal" tabindex="-1" aria-labelledby="finalModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg modal-dialog-centered">
+    <div class="modal-content" style="height: 75vh;">
+      <div class="modal-header">
+        <h5 class="modal-title w-100 text-center fw-bold" id="finalModalLabel">The Point</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      
+      <div class="modal-body d-flex flex-column justify-content-between">
+        <div class="text-center" style="font-size: 2rem; margin-top: 20px;">
+          <em>If there's no point to your presentation, then there's no point to remember it.</em>
+        </div>
+        
+        <div class="text-center mt-4">
+          <img src="statdept.jpg" alt="Image 1" style="max-width: 40%; margin: 10px;">
+          <img src="statclub.jpg" alt="Image 2" style="max-width: 40%; margin: 10px;">
+        </div>
+        
+        <div class="text-center mt-3" style="font-size: 0.9rem; color: #6c757d;">
+          Thank you to K-State, the Department of Statistics, and the Stat Club for giving me this opportunity.<br>
+          Special thanks to the ASA and Savills for their contributions to this year's celebration of data!
+        </div>
+      </div>
+    </div>
   </div>
 </div>
