@@ -1,1 +1,24 @@
 /* add your tweaks here! */
+.highlight-prompt {
+  background-color: #fff3cd; /* soft yellow */
+  font-weight: bold;
+}
+
+.highlight-summary {
+  background-color: #d1ecf1; /* light blue */
+  font-weight: bold;
+}
+
+.highlight-focus {
+  background-color: #f8d7da; /* soft red */
+  font-weight: bold;
+}
+
+.aside {
+  display: block;
+  font-size: 0.9em;
+  color: #6c757d;
+  margin-top: 0.25rem;
+  margin-bottom: 1rem;
+  font-style: italic;
+}
