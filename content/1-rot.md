@@ -189,9 +189,15 @@ nav: 3's
 " alt="Quadratic curve plot" style="max-width:70%; margin-top: 20px;">
 </div>
 
+<br>
+
 $$f(x) = -2x+x^2+x^3+6$$
 
+<br>
 
+$$f'(x) = -2+2x+3x^2$$
+
+<br>
 
 
 
