@@ -221,14 +221,74 @@ $$f'(x) = -2+2x+3x^2$$
 
 ---
 
+<br>
+
 ## Implication  
 **What does your idea/product mean to the world, the population, and the audience?**
 
-> When instructors teach calculus, they rarely emphasize applied use and exploration.  
-> Calculus students rarely consider how vital the class could be to their lives.  
+<div class="card mb-4" style="background-color: #f8f9fa;">
+  <div class="card-body text-center">
+    <p class="fw-bold">
+      When instructors teach calculus, they rarely emphasize applied use and exploration.
+    </p>
+  </div>
+</div>
 
-Instructors need to teach with the urgency that  
-they could be responsible for a global recession.  
-Students need to take their lessons more seriously than Lehman Brothers did.
+<div class="card mb-4" style="background-color: #512880; color: white;">
+  <div class="card-body text-center">
+    <p class="fw-bold">
+      Calculus students rarely consider how vital the class could be to their lives.
+    </p>
+  </div>
+</div>
 
+<div class="text-center mb-4">
+  <button type="button" class="btn" style="background-color: #f8f9fa; border: 1px solid #ccc;" data-bs-toggle="modal" data-bs-target="#instructorModal">
+    Instructors
+  </button>
+</div>
+
+<div class="text-center">
+  <button type="button" class="btn" style="background-color: #512880; color: white;" data-bs-toggle="modal" data-bs-target="#studentModal">
+    Students
+  </button>
+</div>
+
+<!-- Instructor Modal -->
+<div class="modal fade" id="instructorModal" tabindex="-1" aria-labelledby="instructorModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="instructorModalLabel">Message for Instructors</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        Teach with the knowledge that your students could be responsible for a global recession.
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Student Modal -->
+<div class="modal fade" id="studentModal" tabindex="-1" aria-labelledby="studentModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content" style="background-color: #512880; color: white;">
+      <div class="modal-header">
+        <h5 class="modal-title" id="studentModalLabel">Message for Students</h5>
+        <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        Take your calculus lessons more seriously than Lehman Brothers did.
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-light" data-bs-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<br>
 ---
