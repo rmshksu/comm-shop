@@ -5,7 +5,7 @@ layout: page
 
 # Science, Statistics, and Storytelling
 
-{% include figure.html img="statdept.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
+{% include figure.html img="statdept.jpg" alt="intro image here" caption="Presented by the K-State Department of Statistics" width="75%" %}
 
 
 
