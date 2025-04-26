@@ -140,18 +140,48 @@ nav: RoT
 ---
 
 ## Application  
-**How is your idea applied or your product used?**
+**How is your idea put into action or your product used?**
 
-When assessing risk, we typically look at:
-- The chance that bad things happen  
-- How bad things can go  
-- How good things should go  
+<div class="card mb-4">
+  <div class="card-body text-center">
+    <p class="fs-2 fw-bold">
+      A good calculus teacher can teach <strong>anyone</strong> the skills Lehman Brothers needed <em>in about a week</em>.
+    </p>
+  </div>
+</div>
 
-> Lehman Brothers help us see that we should be just as worried  
-> about how **sensitive** things are to change.
+<table class="table table-bordered w-50 mx-auto">
+  <tbody>
+    <tr>
+      <td class="text-center">The chance that bad things happen</td>
+    </tr>
+    <tr>
+      <td class="text-center">How bad things can go</td>
+    </tr>
+    <tr>
+      <td class="text-center">How good things should go</td>
+    </tr>
+  </tbody>
+</table>
 
-Any student with one semester of calculus can calculate the  
-**risk measurement** that would have saved Lehman Brothers.
+<div class="card mb-4">
+  <div class="card-body text-center">
+    <blockquote class="blockquote">
+      Lehman Brothers help us see that we should be just as worried about how <strong>sensitive</strong> things are to change.
+    </blockquote>
+  </div>
+</div>
+
+```{r, echo=FALSE}
+plot(function(x) -x^2 + 4, -3, 3, ylim=c(-2,5), axes=FALSE, xlab="", ylab="", main="")
+box()
+```
+
+<div style="text-align: center; font-size: 32px; margin-top: 20px;"> $$f(x) = -x^2 + 4$$ </div> 
+
+
+
+
 
 ---
 
