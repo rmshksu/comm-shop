@@ -131,7 +131,7 @@ nav: RoT
 
 <div class="card mb-4">
   <div class="card-body text-center">
-    <p><strong><span style="font-size: 24px;">Lehman Brothers Inc. took an extremely risky market position because they evaluated the chance of a bad outcome against their potential gain instead of looking at how quickly and dramatically everything could fail.</span></strong></p>
+    <p><strong><span style="font-size: 24px;">Lehman Brothers Inc. made a dangerous bet because they looked at the chance of losing against how much money they could make, instead of looking at how quickly everything could go wrong.</span></strong></p>
   </div>
 </div>
 
