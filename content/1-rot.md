@@ -3,15 +3,18 @@ title: The Rule of Three
 nav: RoT
 ---
 
+<br>
+
 >"If you want something stuck in someone's head put it in a sequence of three." - Brian Clark
 
 <br>
 
 ---
 
+
 <div class="card mb-4">
   <div class="card-body text-center">
-    <p>Humans are simple creatures. We like when things are presented in groups of three. Blood, sweat, and tears. Life, liberty, and the pursuit of happiness. Lions, tigers, and bears.</p>
+    <p><strong><span style="font-size: 24px;">Humans are simple creatures. We like when things are presented in groups of three. Blood, sweat, and tears. Life, liberty, and the pursuit of happiness. Lions, tigers, and bears.</span></strong></p>
   </div>
 </div>
 
@@ -107,6 +110,12 @@ nav: RoT
 
 
 ---
+
+<div class="card mb-4">
+  <div class="card-body text-center">
+    <p>Humans are simple creatures. We like when things are presented in groups of three. Blood, sweat, and tears. Life, liberty, and the pursuit of happiness. Lions, tigers, and bears.</p>
+  </div>
+</div>
 
 > **Lehman Brothers Inc. took an extremely risky market position**  
 > because they evaluated the chance of a bad outcome against their potential gain,  
