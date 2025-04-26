@@ -3,6 +3,8 @@ title: The Rule of Three
 nav: 3's
 ---
 
+{% include figure.html img="lehman.jpg" alt="intro image here" caption="I'm really excited for my internship with Lehman Brother's Inc. next summer. 2009 is gonna be my year!" width="75%" %}
+
 <br>
 
 >"If you want something stuck in someone's head put it in a sequence of three." - Brian Clark
