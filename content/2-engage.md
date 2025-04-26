@@ -138,8 +138,8 @@ nav: Engage
         </div>
         
         <div class="text-center mt-3" style="font-size: 0.9rem; color: #6c757d;">
-          Thank you to K-State, the Department of Statistics, and the Stat Club for giving me this opportunity.<br>
-          Special thanks to the ASA and Savills for their contributions to this year's celebration of data!
+          Thank you to K-State, IDA, the Department of Statistics, and the Stat Club for making this all possible.<br>
+          Special thanks to the ASA and Savills for their contributions to this year's DataFest. Here's to many more!
         </div>
       </div>
     </div>
