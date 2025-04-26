@@ -18,16 +18,16 @@ nav: RoT
   </div>
 </div>
 
-<table class="table table-bordered w-75 mx-auto">
+<table class="table table-bordered w-75 mx-auto text-center">
   <tbody>
     <tr>
-      <td><strong>Blood, sweat, and tears.</strong></td>
+      <td><strong>Blood, sweat, and tears</strong></td>
     </tr>
     <tr>
-      <td><strong>Life, liberty, and the pursuit of happiness.</strong></td>
+      <td><strong>Life, liberty, and the pursuit of happiness</strong></td>
     </tr>
     <tr>
-      <td><strong>Lions, tigers, and bears.</strong></td>
+      <td><strong>Lions, tigers, and bears</strong></td>
     </tr>
   </tbody>
 </table>
@@ -128,12 +128,6 @@ nav: RoT
 ---
 
 <br>
-
-<div class="card mb-4">
-  <div class="card-body text-center">
-    <p>Humans are simple creatures. We like when things are presented in groups of three. Blood, sweat, and tears. Life, liberty, and the pursuit of happiness. Lions, tigers, and bears.</p>
-  </div>
-</div>
 
 <div class="card mb-4">
   <div class="card-body text-center">
