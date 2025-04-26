@@ -197,11 +197,23 @@ $$f(x) = -2x+x^2+x^3+6$$
 
 <br>
 
+>Most students with a half semester of calculus can find the derivative of this function
+
+>But how many can say what we've actually ***measured*** with that derivative?
+
+<br>
+
 $$f'(x) = -2+2x+3x^2$$
 
 <br>
 
+>An alright calculus teacher gives the world an analyst who says the housing market is too big to fail
 
+<br>
+
+>***A good calculus teacher gives us the analysts in [Margin Call](https://youtube.com/clip/UgkxBGxew3HC8vtTasp8oT7kHN5N7YA98YGS?si=hBewX5mIBgxw3A4k)
+
+<br>
 
 ---
 
