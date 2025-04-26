@@ -1,6 +1,6 @@
 ---
 title: Keep It Simple, Stupid!
-nav: K-I-S-S
+nav: KISS
 ---
 
 > “Don’t talk to the general audience as you would your scientific colleagues. There are terms that convey your meaning instantly and accurately to fellow experts. You may parse these phrases every day in your professional work. But they do no more than mystify an audience of non-specialists. Use the simplest possible language. Above all, remember how it was before you, yourself, grasped whatever it is you’re explaining.”  
