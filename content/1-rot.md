@@ -129,6 +129,8 @@ nav: 3's
 
 >[Margot Robbie explains sub-prime mortgages](https://youtube.com/clip/UgkxcpOI_rIn0xPE8bTMcCk-w3tho9pUqaI3?si=UBRh9m7cgywphYF7)
 
+<br>
+
 ---
 
 <br>
