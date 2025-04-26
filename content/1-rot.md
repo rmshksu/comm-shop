@@ -142,6 +142,8 @@ nav: RoT
 ## Application  
 **How is your idea put into action or your product used?**
 
+<br>
+
 <div class="card mb-4">
   <div class="card-body text-center">
     <p class="fs-2 fw-bold">
@@ -149,6 +151,12 @@ nav: RoT
     </p>
   </div>
 </div>
+
+<br>
+
+>***When assessing risk, we typically look at:***
+
+<br>
 
 <table class="table table-bordered w-50 mx-auto">
   <tbody>
@@ -164,6 +172,8 @@ nav: RoT
   </tbody>
 </table>
 
+<br>
+
 <div class="card mb-4">
   <div class="card-body text-center">
     <blockquote class="blockquote">
@@ -172,12 +182,13 @@ nav: RoT
   </div>
 </div>
 
-```{r, echo=FALSE}
-plot(function(x) -x^2 + 4, -3, 3, ylim=c(-2,5), axes=FALSE, xlab="", ylab="", main="")
-box()
-```
+<br>
 
-<div style="text-align: center; font-size: 32px; margin-top: 20px;"> $$f(x) = -x^2 + 4$$ </div> 
+<div class="text-center">
+  <img src="images/commplot.png" alt="Quadratic curve plot" style="max-width:70%; margin-top: 20px;">
+</div>
+
+$$f(x) = -2x+x^2+x^3+6$$
 
 
 
