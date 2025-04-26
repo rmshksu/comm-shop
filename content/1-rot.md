@@ -185,7 +185,8 @@ nav: 3's
 <br>
 
 <div class="text-center">
-  <img src="https://github.com/rmshksu/comm-shop/blob/d1d5e459d27b8538aa7db4a81ea6761be3086910/images/commplot.png" alt="Quadratic curve plot" style="max-width:70%; margin-top: 20px;">
+  <img src="https://raw.githubusercontent.com/rmshksu/comm-shop/d1d5e459d27b8538aa7db4a81ea6761be3086910/images/commplot.png
+" alt="Quadratic curve plot" style="max-width:70%; margin-top: 20px;">
 </div>
 
 $$f(x) = -2x+x^2+x^3+6$$
